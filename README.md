@@ -1,6 +1,5 @@
 # 🏋🏻 **집에서 운동중- WebRTC 기반 운동 플랫폼**
 
-![Logo.svg](/uploads/d8fee1b70d56dcec1c1534393a984a36/Logo.svg)
 
 ## [집에서 운동중 링크](https://i7a805.p.ssafy.io/)
 
